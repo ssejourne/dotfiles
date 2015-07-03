@@ -1,0 +1,7 @@
+[user]
+   email = sebastien@sejourne.org
+   name = "Sebastien Sejourne"
+[push]
+	default = simple
+[color]
+	ui = auto

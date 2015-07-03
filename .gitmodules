@@ -1,0 +1,27 @@
+[submodule "vim/vim/bundle/snipmate.vim"]
+	path = vim/vim/bundle/snipmate.vim
+	url = https://github.com/msanders/snipmate.vim.git
+[submodule "vim/vim/bundle/syntastic"]
+	path = vim/vim/bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "vim/vim/bundle/tabular"]
+	path = vim/vim/bundle/tabular
+	url = https://github.com/godlygeek/tabular.git
+[submodule "vim/vim/bundle/vim-colors-solarized"]
+	path = vim/vim/bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "vim/vim/bundle/vim-markdown"]
+	path = vim/vim/bundle/vim-markdown
+	url = https://github.com/tpope/vim-markdown.git
+[submodule "vim/vim/bundle/vim-projectionist"]
+	path = vim/vim/bundle/vim-projectionist
+	url = https://github.com/tpope/vim-projectionist.git
+[submodule "vim/vim/bundle/vim-puppet"]
+	path = vim/vim/bundle/vim-puppet
+	url = https://github.com/rodjek/vim-puppet.git
+[submodule "vim/vim/bundle/vim-rake"]
+	path = vim/vim/bundle/vim-rake
+	url = https://github.com/tpope/vim-rake.git
+[submodule "vim/vim/bundle/vim-ruby"]
+	path = vim/vim/bundle/vim-ruby
+	url = https://github.com/vim-ruby/vim-ruby.git
