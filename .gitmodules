@@ -28,3 +28,9 @@
 [submodule "vim/vim/bundle/vim-airline"]
 	path = vim/vim/bundle/vim-airline
 	url = https://github.com/bling/vim-airline
+[submodule "vim/vim/bundle/vim-signify"]
+	path = vim/vim/bundle/vim-signify
+	url = https://github.com/mhinz/vim-signify
+[submodule "vim/vim/bundle/vim-gitgutter"]
+	path = vim/vim/bundle/vim-gitgutter
+	url = git://github.com/airblade/vim-gitgutter.git
